@@ -1,4 +1,4 @@
-package lone.sing.shone.shop
+package lone.sing.shone.shone
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("lone.sing.shone.shop", appContext.packageName)
+        assertEquals("lone.sing.shone.shone", appContext.packageName)
     }
 }

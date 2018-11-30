@@ -1,4 +1,4 @@
-package lone.sing.shone.shop
+package lone.sing.shone.shone
 
 import org.junit.Test
 
